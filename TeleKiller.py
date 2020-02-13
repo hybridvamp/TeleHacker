@@ -198,9 +198,9 @@ def banner():
   ║    \x1b[36m╚═╝   ╚══════╝╚══════╝╚══════╝    ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝\x1b[32m ║
   ╚═╦═╦═╦═╦═╦═╦═╦═╦═╦═╦═╦═╦═╦═╦═╦═╦═╦═╦═╦═╦═╦═╦═╦════════════════════════════════════╝
   ╔═╩═╩═╩═╩═╩═╩═╩═╩═╩═╩═╩═╩═╩═╩═╩═╩═╩═╩═╩═╩═╩═╩═╩═╗
-  ║\x1b[33m WebSite : UltraSec.org\x1b[32m                        ║
-  ║\x1b[33m Channel : @UltraSecurity\x1b[32m                      ║
-  ║\x1b[33m Developers : Ashkan Moghaddas , Behzad Magzer\x1b[32m ║
+  ║\x1b[33m WebSite : darkarmy.in\x1b[32m                        ║
+  ║\x1b[33m Channel : @DarkArmy_in\x1b[32m                      ║
+  ║\x1b[33m Developers : TheDarkW3b, Ashkan Moghaddas[32m ║
   ╚═══════════════════════════════════════════════╝
 \n\x1b[37m  OPTIONS:\n\n\t(\x1b[41m1\x1b[0m\x1b[37m) Generate\n\n\t(\x1b[41m2\x1b[0m\x1b[37m) Listening\n\n\t(\x1b[41m3\x1b[0m\x1b[37m) Exit\n"""
 
